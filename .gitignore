@@ -1,0 +1,9 @@
+# VS debug files
+Debug/*
+
+BullCowGame/Debug/*
+
+# VS generated files
+.vs/*
+
+BullCowGame/*.vcxproj*
